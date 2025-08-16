@@ -18,3 +18,5 @@ To enhance usability, I implemented message history, allowing users to view past
 
 ## OUTPUT
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/5f310653-3cb1-4108-a9cf-4b9d891d4b2b" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/6229cb9b-6b58-43bf-8da0-84715b7f3474" />
