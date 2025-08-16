@@ -17,3 +17,4 @@ MENTOR : NEELA SANTHOSH
 To enhance usability, I implemented message history, allowing users to view past conversations and maintain continuity in communication. The project is designed with a scalable architecture, making it easier to extend with advanced features such as user authentication, private/group chats, media sharing, typing indicators, and push notifications.Through this project, I gained hands-on experience with real-time web technologies, state management, responsive UI design, and event-driven programming. This application not only serves as a functional chat platform but also as a foundation for building enterprise-grade real-time communication systems.
 
 ## OUTPUT
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/5f310653-3cb1-4108-a9cf-4b9d891d4b2b" />
